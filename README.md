@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd5ZDI1MTduZ3E3cnY2c3ptY3RwdWk0eWZxNTlwNXhyMzk5N213byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif" width="100%" alt="cute bunny typing banner"/>
+<img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd5ZDI1MTduZ3E3cnY2c3ptY3RwdWk0eWZxNTlwNXhyMzk5N213byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif](https://gifdb.com/images/high/cute-blue-sticker-computer-ifd3xdpv8lsq7qih.gif)" width="100%" alt="cute bunny typing banner"/>
 
 <h1 align="center">Hey there! 👋 I'm Alejandra</h1>
 
