@@ -1,4 +1,6 @@
-![Cute Blue Sticker Computer](https://gifdb.com/images/high/cute-blue-sticker-computer-ifd3xdpv8lsq7qih.gif)
+<p align="center">
+  <img src="https://gifdb.com/images/high/cute-blue-sticker-computer-ifd3xdpv8lsq7qih.gif" alt="Cute blue computer" width="300"/>
+</p>
 
 <h1 align="center">Hey there! 👋 I'm Alejandra</h1>
 
