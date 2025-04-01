@@ -10,7 +10,6 @@
 ✨ Creating bugs since 2024 😅<br>
 📚 I'm currently learning Python, web development, automation, and how to build cool things with code.<br>
 🎯 Goals: Build useful projects, grow a solid portfolio, and land my first tech job.<br>
-🎲 Fun fact: I once made a bot that applies to jobs on LinkedIn — just for fun!
 </p>
 
 ---
@@ -19,8 +18,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
